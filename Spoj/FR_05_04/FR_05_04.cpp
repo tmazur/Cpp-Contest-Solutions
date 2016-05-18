@@ -43,7 +43,7 @@ int main() {
 	{
 		unsigned int runner = bestRunners.front();
 		bestRunners.pop();
-		cout << names[runner][0] << " " << names[runner][1] << endl;
+		printf("%s %s\n", names[runner][0], names[runner][1]);
 	}
 	return 0;
 }
