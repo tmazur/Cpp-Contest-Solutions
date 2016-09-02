@@ -1,10 +1,3 @@
-5 1
-list a
-add a
-list a
-remove a
-list a
-
 14 1
 add zzzzzzzz
 list z
@@ -42,6 +35,13 @@ list ch
 list c
 remove chcp
 list c
+
+5 1
+list a
+add a
+list a
+remove a
+list a
 
 12 3
 add z
